@@ -1,2 +1,1 @@
-# Internet-based-UK-supermarket-sales-data-project
-R analysis and report on internet-based UK supermarket sales data
+# Decision Tree based machine learning classification R implementation
